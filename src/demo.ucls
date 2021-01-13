@@ -1,0 +1,378 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<class-diagram version="1.2.4" icons="true" automaticImage="JPEG" always-add-relationships="false" 
+  generalizations="true" realizations="true" associations="true" dependencies="false" nesting-relationships="true" 
+  router="FAN">  
+  <class id="1" language="java" name="gameElements.Snake" project="GetOutOfMySwamp" 
+    file="/GetOutOfMySwamp/src/gameElements/Snake.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="207" y="877"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <interface id="2" language="java" name="game.Playable" project="GetOutOfMySwamp" 
+    file="/GetOutOfMySwamp/src/game/Playable.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="1260" y="671"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </interface>  
+  <class id="3" language="java" name="gameElements.GameElement" project="GetOutOfMySwamp" 
+    file="/GetOutOfMySwamp/src/gameElements/GameElement.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="410" y="203"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="4" language="java" name="gui.GOOMSGUI" project="GetOutOfMySwamp" 
+    file="/GetOutOfMySwamp/src/gui/GOOMSGUI.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="1583" y="369"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <interface id="5" language="java" name="game.Observer" project="GetOutOfMySwamp" 
+    file="/GetOutOfMySwamp/src/game/Observer.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="1547" y="26"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </interface>  
+  <class id="6" language="java" name="game.GridNotification" project="GetOutOfMySwamp" 
+    file="/GetOutOfMySwamp/src/game/GridNotification.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="931" y="823"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <enumeration id="7" language="java" name="gameElements.MonsterNames" project="GetOutOfMySwamp" 
+    file="/GetOutOfMySwamp/src/gameElements/MonsterNames.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="182" y="76"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </enumeration>  
+  <class id="8" language="java" name="gameElements.Monster" project="GetOutOfMySwamp" 
+    file="/GetOutOfMySwamp/src/gameElements/Monster.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="380" y="639"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="9" language="java" name="gameElements.Parrot" project="GetOutOfMySwamp" 
+    file="/GetOutOfMySwamp/src/gameElements/Parrot.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="378" y="877"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="10" language="java" name="game.TheGame" project="GetOutOfMySwamp" 
+    file="/GetOutOfMySwamp/src/game/TheGame.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="1267" y="232"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <interface id="11" language="java" name="gameElements.DefenseBehaviour" project="GetOutOfMySwamp" 
+    file="/GetOutOfMySwamp/src/gameElements/DefenseBehaviour.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="515" y="489"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </interface>  
+  <class id="12" language="java" name="grid.Row" project="GetOutOfMySwamp" file="/GetOutOfMySwamp/src/grid/Row.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="795" y="434"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="13" language="java" name="gameElements.PlainAttack" project="GetOutOfMySwamp" 
+    file="/GetOutOfMySwamp/src/gameElements/PlainAttack.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="66" y="380"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="14" language="java" name="gameElements.MonsterFactory" project="GetOutOfMySwamp" 
+    file="/GetOutOfMySwamp/src/gameElements/MonsterFactory.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="923" y="40"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="15" language="java" name="gameElements.Donkey" project="GetOutOfMySwamp" 
+    file="/GetOutOfMySwamp/src/gameElements/Donkey.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="549" y="877"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <enumeration id="16" language="java" name="gui.Monsters" project="GetOutOfMySwamp" 
+    file="/GetOutOfMySwamp/src/gui/Monsters.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="1632" y="740"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </enumeration>  
+  <class id="17" language="java" name="grid.Grid" project="GetOutOfMySwamp" file="/GetOutOfMySwamp/src/grid/Grid.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="910" y="203"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <enumeration id="18" language="java" name="grid.Moves" project="GetOutOfMySwamp" 
+    file="/GetOutOfMySwamp/src/grid/Moves.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="764" y="798"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </enumeration>  
+  <class id="19" language="java" name="grid.Square" project="GetOutOfMySwamp" 
+    file="/GetOutOfMySwamp/src/grid/Square.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="775" y="607"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="20" language="java" name="gameElements.PlainDefense" project="GetOutOfMySwamp" 
+    file="/GetOutOfMySwamp/src/gameElements/PlainDefense.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="532" y="621"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <interface id="21" language="java" name="game.Observable" project="GetOutOfMySwamp" 
+    file="/GetOutOfMySwamp/src/game/Observable.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="1267" y="858"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </interface>  
+  <class id="22" language="java" name="game.TextNotification" project="GetOutOfMySwamp" 
+    file="/GetOutOfMySwamp/src/game/TextNotification.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="1096" y="806"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="23" language="java" name="gameElements.HeroAttack" project="GetOutOfMySwamp" 
+    file="/GetOutOfMySwamp/src/gameElements/HeroAttack.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="204" y="381"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="24" language="java" name="gui.CustomPanel" project="GetOutOfMySwamp" 
+    file="/GetOutOfMySwamp/src/gui/CustomPanel.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="1452" y="740"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="25" language="java" name="game.Notification" project="GetOutOfMySwamp" 
+    file="/GetOutOfMySwamp/src/game/Notification.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="1020" y="622"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <interface id="26" language="java" name="gameElements.AttackBehaviour" project="GetOutOfMySwamp" 
+    file="/GetOutOfMySwamp/src/gameElements/AttackBehaviour.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="127" y="234"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </interface>  
+  <class id="27" language="java" name="gameElements.Hero" project="GetOutOfMySwamp" 
+    file="/GetOutOfMySwamp/src/gameElements/Hero.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="207" y="621"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <generalization id="28">    
+    <end type="SOURCE" refId="1"/>    
+    <end type="TARGET" refId="8"/>  
+  </generalization>  
+  <association id="29">    
+    <end type="SOURCE" refId="10" navigable="false">      
+      <attribute id="30" name="gameElementsPositioned"/>      
+      <multiplicity id="31" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="19" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <generalization id="32">    
+    <end type="SOURCE" refId="6"/>    
+    <end type="TARGET" refId="25"/>  
+  </generalization>  
+  <association id="33">    
+    <end type="SOURCE" refId="17" navigable="false">      
+      <attribute id="34" name="grid"/>      
+      <multiplicity id="35" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="12" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <generalization id="36">    
+    <end type="SOURCE" refId="27"/>    
+    <end type="TARGET" refId="3"/>  
+  </generalization>  
+  <realization id="37">    
+    <end type="SOURCE" refId="20"/>    
+    <end type="TARGET" refId="11"/>  
+  </realization>  
+  <generalization id="38">    
+    <end type="SOURCE" refId="8"/>    
+    <end type="TARGET" refId="3"/>  
+  </generalization>  
+  <realization id="39">    
+    <end type="SOURCE" refId="13"/>    
+    <end type="TARGET" refId="26"/>  
+  </realization>  
+  <realization id="40">    
+    <end type="SOURCE" refId="23"/>    
+    <end type="TARGET" refId="26"/>  
+  </realization>  
+  <generalization id="41">    
+    <end type="SOURCE" refId="22"/>    
+    <end type="TARGET" refId="25"/>  
+  </generalization>  
+  <association id="42">    
+    <end type="SOURCE" refId="3" navigable="false">      
+      <attribute id="43" name="defenceBehaviour"/>      
+      <multiplicity id="44" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="11" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <realization id="45">    
+    <end type="SOURCE" refId="4"/>    
+    <end type="TARGET" refId="5"/>  
+  </realization>  
+  <generalization id="46">    
+    <end type="SOURCE" refId="2"/>    
+    <end type="TARGET" refId="21"/>  
+  </generalization>  
+  <realization id="47">    
+    <end type="SOURCE" refId="10"/>    
+    <end type="TARGET" refId="2"/>  
+  </realization>  
+  <association id="48">    
+    <end type="SOURCE" refId="12" navigable="false">      
+      <attribute id="49" name="row"/>      
+      <multiplicity id="50" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="19" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="51">    
+    <end type="SOURCE" refId="10" navigable="false">      
+      <attribute id="52" name="monsterFactory"/>      
+      <multiplicity id="53" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="14" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <generalization id="54">    
+    <end type="SOURCE" refId="15"/>    
+    <end type="TARGET" refId="8"/>  
+  </generalization>  
+  <association id="55">    
+    <end type="SOURCE" refId="10" navigable="false">      
+      <attribute id="56" name="observers"/>      
+      <multiplicity id="57" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="5" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="58">    
+    <end type="SOURCE" refId="10" navigable="false">      
+      <attribute id="59" name="grid"/>      
+      <multiplicity id="60" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="17" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="61">    
+    <end type="SOURCE" refId="3" navigable="false">      
+      <attribute id="62" name="attackBehaviour"/>      
+      <multiplicity id="63" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="26" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="64">    
+    <end type="SOURCE" refId="4" navigable="false">      
+      <attribute id="65" name="game"/>      
+      <multiplicity id="66" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="2" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <generalization id="67">    
+    <end type="SOURCE" refId="9"/>    
+    <end type="TARGET" refId="8"/>  
+  </generalization>  
+  <classifier-display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+    sort-features="false" accessors="true" visibility="true">    
+    <attributes public="true" package="true" protected="true" private="true" static="true"/>    
+    <operations public="true" package="true" protected="true" private="true" static="true"/>  
+  </classifier-display>  
+  <association-display labels="true" multiplicity="true"/>
+</class-diagram>
